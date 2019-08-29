@@ -10,3 +10,4 @@ test for tag function
 
 ------------------------------------
 these contents are all added after tag versin-1
+ok
